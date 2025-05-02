@@ -1,0 +1,29 @@
+{
+  "name": "@airplanegobrr/rclone-api",
+  "version": "0.0.1",
+  "description": "Simple CommonJS module to interact with the rclone RC REST API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AirplaneGobrr-Trash/rclone-api.git"
+  },
+  "keywords": [
+    "rclone",
+    "api",
+    "rest",
+    "rc",
+    "remote-control",
+    "backup",
+    "sync",
+    "wrapper",
+    "rclone-api"
+  ],
+  "author": "AirplaneGobrr",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
