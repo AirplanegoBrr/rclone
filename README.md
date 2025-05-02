@@ -111,7 +111,7 @@ console.log(await rc.operations.list({
         IsDir: false,
         Hashes: {
             md5: "1d8d451e7101a735b7b6ea68c6d3f201",
-            sha1: "00b70f68d99536bb1039c25b6034a3fd5c718367"},
+            sha1: "00b70f68d99536bb1039c25b6034a3fd5c718367",
         }
     }
   ],
